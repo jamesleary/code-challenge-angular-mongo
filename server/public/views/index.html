@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Code Challenge Angular/Mongo</title>
-    <script src="vendors/angular.min.js" charset="utf-8"></script>
-    <script src="vendors/angular-route.js" charset="utf-8"></script>
-    <script src="scripts/client.js" charset="utf-8"></script>
-  </head>
-  <body>
+<head>
+  <meta charset="utf-8">
+  <title>Code Challenge Angular/Mongo</title>
+  <script src="vendors/angular.min.js" charset="utf-8"></script>
+  <script src="vendors/angular-route.min.js" charset="utf-8"></script>
+  <script src="scripts/client.js" charset="utf-8"></script>
+  <script src="scripts/controller/Todo.controller.js" charset="utf-8"></script>
+</head>
+<body ng-app="myApp">
 
-  </body>
+  <h1>ToDo App</h1>
+
+  <li><a href="#!todo">ToDo List</a></li>
+  <ng-view></ng-view>
+
+</body>
 </html>

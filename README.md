@@ -13,9 +13,9 @@ Once the message has been successfully written to the database, display all mess
 If the application page is reloaded, all previous messages should appear.
 
 Task List
-[] Create base file structure
-[] Spin up server
-[] source in angular and other vendor files
-[] Serve up static files
+[x] Create base file structure
+[x] Spin up server
+[x] source in angular and other vendor files
+[x] Serve up static files
 [] create database, and dummy data for initial get request
-[] 
+[]
