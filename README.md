@@ -1,5 +1,8 @@
 # code-challenge-angular-mongo
 
+# Description
+This project was a code challenge testing our ability to use angular and mongo to accomplish certain tasks that are outlined below.
+
 The message board application you are going to build has the following requirements:
 
 MUST use Angular and MongoDB
