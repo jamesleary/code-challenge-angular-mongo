@@ -1,4 +1,4 @@
-# code-challenge-angular-mongo
+# Code Challenge
 
 # Description
 This project was a code challenge testing our ability to use angular and mongo to accomplish certain tasks that are outlined below.
